@@ -7,6 +7,8 @@ export default function App() {
 
       <h1>Weather Application</h1>
       <Search />
+
+       <footer>Coded by Catherine <a href="https://github.com/catherine1201/react-weather" target="_blank"></a></footer>
     </div>
   )
 }
